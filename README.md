@@ -22,3 +22,21 @@ An interactive web application that visualizes popular sorting algorithms throug
 ```bash
 git clone <repository-url>
 
+2.Install dependencies
+npm install
+
+3.Run the project
+npm run dev
+
+#Applications
+*Learning Data Structures and Algorithms
+*Understanding sorting algorithm behavior
+*Educational demonstrations and presentation
+
+#Run
+<!-- clone
+install bash
+npm install
+npm run dev
+ctrl click link 
+ez pz  -->
