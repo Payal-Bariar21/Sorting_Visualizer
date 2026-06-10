@@ -19,8 +19,7 @@ An interactive web application that visualizes popular sorting algorithms throug
 ## Installation
 
 1. Clone the repository
-```bash
-git clone <repository-url>
+git clone <https://github.com/Payal-Bariar21/Sorting_Visualizer.git>
 
 2.Install dependencies
 npm install
